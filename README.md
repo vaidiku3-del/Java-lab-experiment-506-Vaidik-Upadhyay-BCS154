@@ -1,3 +1,4 @@
 # Java-lab-experiment-506-Vaidik-Upadhyay-BCS154
 
-<img width="253" height="738" alt="image" src="https://github.com/user-attachments/assets/ae53be80-13df-4502-8669-084a031b2f62" />
+<img width="250" height="336" alt="image" src="https://github.com/user-attachments/assets/10425ec8-10be-4b02-a157-a8ba4db934e0" />
+
