@@ -1,7 +1,7 @@
 # Java-lab-experiment-506-Vaidik-Upadhyay-BCS154
 
 
-DOC-20261106-WA0005.pdf
+https://drive.google.com/file/d/1qlzhQUGJ_Iz-7cBn8kkBN0CAdZ5HvLKx/view?usp=drivesdk
 
 
 
